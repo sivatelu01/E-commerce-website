@@ -35,4 +35,7 @@ Authentication
   Login: Redirect unauthenticated users to the login page when accessing restricted routes like the cart.
   
   Logout: Log out and redirect to the login page, ending the user session.
+
+Prime user: username:rahul password:rahul@2021
+Non-prime User: username:raja password:raja@2021
   
